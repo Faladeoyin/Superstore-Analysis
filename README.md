@@ -1,2 +1,2 @@
 # Superstore-Analysis
-This analysis contains a 4-year data from a superstore in the United States. It contains sales across different categories of goods.
+This analysis provides sales insights and trend predictions based on four years of data from a U.S. superstore, sourced from Kaggle. It covers sales across various product categories.
